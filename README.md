@@ -1,6 +1,7 @@
 # OP_Projet_6_Analysez_les_ventes_d-une_librairie_avec_R_ou_Python
 Projet VI : Analysez les ventes d'une librairie avec R ou Python
 
+Scénario :
 
 L’entreprise Lapage était originellement une librairie physique avec plusieurs points de vente. Mais devant le succès de certains de ses produits et l’engouement de ses clients, elle a décidé depuis 2 ans d’ouvrir un site de vente en ligne.
 
@@ -62,10 +63,15 @@ Voici la version pdf de la conversation.
 Pour vous aider dans la réalisation des tests statistiques, vous pouvez consulter le tableau récapitulatif d’XLSTAT.
 
  
-
 Vous êtes prêt ? Votre mission démarre :
 
 Coupez dès à présent toutes les sources de distraction  (téléphone, messagerie instantanée, mails..)
 Évitez les situations de multi tâches (n’écoutez pas un podcast ou les informations en travaillant)
 Préparez votre environnement de travail (onglet, documents, raccourcis…) et démarrez la mission en téléchargeant les fichiers. 
 Bon courage !
+
+
+Objectifs: 
+
+
+![image](https://github.com/KevinZirData/OP_Projet_6_Analysez_les_ventes_d-une_librairie_avec_R_ou_Python/assets/142809013/4039b1af-1a2d-46b1-8154-1d1ba165b63e)
